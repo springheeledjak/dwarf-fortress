@@ -1,3 +1,0 @@
-inorganic_upgraded_metal
-
-YESREFINERY[OBJECT:INORGANIC]
